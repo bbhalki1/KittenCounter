@@ -1,0 +1,8 @@
+Flask==0.12.2
+Jinja2==2.9.6
+Werkzeug==0.12.2
+amqp==2.2.2
+celery==4.1.0
+kombu==4.1.0
+redis==2.10.6
+ipdb==0.10.3
