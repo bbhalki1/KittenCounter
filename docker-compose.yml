@@ -6,6 +6,7 @@ services:
       - "80:80"
     links:
       - redis
+    image: bbhalki1/kitten_counter
   redis:
     image: redis
   worker:
